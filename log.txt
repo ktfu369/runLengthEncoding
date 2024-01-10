@@ -1,0 +1,3 @@
+Input file Name             Output file name            Action type       Average CR  Min CR     Max CR
+inputFileOne.txt            inputFileOne_out(3).txt     Compression       1.42        0.85       2.0
+inputFileOne1.txt           inputFileOne1_out(2).txt    Decompression     0.63        0.41       0.85
